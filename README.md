@@ -1,2 +1,3 @@
 # Programa Desconto!
-Esse programa foi criado para saber se uma pessoa tem direito à um desconto de acordo com a idade e renda mensal da mesma.
+Esse é um programa que verifica se uma pessoa está qualificada para um desconto especial com base na idade e na renda mensal.
+A pessoa deve ter mais de 60 anos ou menos de 18 anos e ter uma renda mensal abaixo de 2000.
